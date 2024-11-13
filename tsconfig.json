@@ -1,0 +1,17 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "components/Home/MissedTasks.jsx", "components/Home/TaskSection.5sx", "app/(tabs)/index.jsx", "app/(tabs)/graphic.jsx", "app/(tabs)/add.jsx", "app/(tabs)/_layout.jsx", "app/(tabs)/profile.jsx", "app/_layout.jsx", "constants/Colors.js", "hooks/useColorScheme.js"  ]
+}

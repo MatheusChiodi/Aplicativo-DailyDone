@@ -54,12 +54,5 @@ Seja o mestre do seu tempo e deixe o **DailyDone** tornar sua vida mais organiza
 3. Instale as dependências com o comando `npm install`.
 4. Inicie o aplicativo com `npm start`.
 
----
-
-## Contato
-
-Se tiver dúvidas, sugestões ou feedback, sinta-se à vontade para abrir uma [issue](https://github.com/seu-usuario/dailydone/issues) ou enviar um e-mail para contato@dailydone.com.br.
-
----
 
 Aproveite o DailyDone e conquiste uma rotina ainda mais produtiva e organizada!

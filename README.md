@@ -1,45 +1,45 @@
-# DailyDone - Transforme Sua Rotina e Alcance o Máximo da Produtividade!
+# DailyDone - Transform Your Routine and Maximize Productivity!
 
-Imagine um app que coloca suas tarefas sob controle total, sem depender de internet e com simplicidade. Com o **DailyDone**, você organiza tudo o que precisa fazer em segundos, liberando sua mente para o que realmente importa. Ele é mais que um gerenciador de tarefas; é o impulso que sua rotina merece para ganhar ritmo e realização!
-
----
-
-## 📋 Funcionalidades
-
-### Registre Suas Tarefas
-
-Nunca mais perca uma ideia ou compromisso! Adicione tarefas com facilidade e deixe o **DailyDone** cuidar do resto.
-
-### ✅ Conclua e Revise a Qualquer Hora
-
-Marque suas conquistas e veja seu progresso. Concluiu uma tarefa? Marque! Precisa reavaliar? É só reativar.
-
-### 🗑️ Limpe o Que Não Serve Mais
-
-Dê espaço ao que realmente importa! Apague tarefas antigas e mantenha a lista sempre atualizada, com foco no que é prioridade.
-
-### 👀 Tudo em Um Só Lugar
-
-Acesso rápido e fácil a todas as suas atividades. Visualize seu progresso e acompanhe o que ainda precisa ser feito – tudo à mão!
-
-### 🌐 100% Offline, Totalmente Confiável
-
-Nada de internet? Sem problema! Com o **DailyDone**, sua organização está garantida em qualquer lugar, a qualquer hora.
+Imagine an app that gives you total control over your tasks, without needing an internet connection and with unmatched simplicity. With **DailyDone**, you can organize everything you need to do in seconds, freeing your mind for what really matters. It's more than a task manager; it's the boost your routine deserves to gain momentum and achieve more!
 
 ---
 
-## Imagens e Downloads
+## 📋 Features
 
-- **Wallpaper**: Adicione o wallpaper do aplicativo disponível em `public/wallpaper.webp` para personalizar seu dispositivo.
-- **APK**: Faça o download do APK disponível em `public/DailyDone.apk` para começar a usar o aplicativo em seu dispositivo Android.
+### Register Your Tasks
+
+Never lose an idea or appointment again! Add tasks easily and let **DailyDone** handle the rest.
+
+### ✅ Complete and Review Anytime
+
+Track your accomplishments and monitor your progress. Finished a task? Mark it as done! Need to revisit it? Just reactivate.
+
+### 🗑️ Clear Out What You Don’t Need
+
+Focus on what truly matters! Delete old tasks and keep your list updated, prioritizing what's important.
+
+### 👀 Everything in One Place
+
+Quick and easy access to all your activities. Visualize your progress and keep track of what still needs to be done – all at your fingertips!
+
+### 🌐 100% Offline, Fully Reliable
+
+No internet? No problem! With **DailyDone**, your organization is guaranteed anytime, anywhere.
 
 ---
 
-Seja o mestre do seu tempo e deixe o **DailyDone** tornar sua vida mais organizada e produtiva. Baixe agora e dê o primeiro passo para uma rotina planejada e cheia de conquistas!
+## Images and Downloads
+
+- **Wallpaper**: Add the app wallpaper available in `public/wallpaper.webp` to personalize your device.
+- **APK**: Download the APK available in `public/DailyDone.apk` to start using the app on your Android device.
 
 ---
 
-## Tecnologias Utilizadas
+Be the master of your time and let **DailyDone** make your life more organized and productive. Download now and take the first step toward a well-planned and accomplished routine!
+
+---
+
+## Technologies Used
 
 - **React Native**
 - **Expo**
@@ -47,12 +47,11 @@ Seja o mestre do seu tempo e deixe o **DailyDone** tornar sua vida mais organiza
 
 ---
 
-## Como Executar o Projeto Localmente
+## How to Run the Project Locally
 
-1. Clone este repositório.
-2. Navegue até o diretório raiz do projeto.
-3. Instale as dependências com o comando `npm install`.
-4. Inicie o aplicativo com `npm start`.
+1. Clone this repository.
+2. Navigate to the project’s root directory.
+3. Install dependencies with the command `npm install`.
+4. Start the app with `npm start`.
 
-
-Aproveite o DailyDone e conquiste uma rotina ainda mais produtiva e organizada!
+Enjoy DailyDone and achieve an even more productive and organized routine!
